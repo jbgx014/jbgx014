@@ -91,13 +91,15 @@ Me chamo Juliana Borges, moro em São Paulo e estudo Ciência da Computação (7
 />
 </p>
 
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0Ym0zcGI1cDYzOW9hOHNnNDVhaHU5NTF2ZTVnaWRqMmw3bXQyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/07PsM1XuwWrSBPWVMi/giphy.gif"
-       width="150px"
-       alt="Gif Mulher trabalhando" />
-</p>
+<img align="right" width="150px"
+     src="https://raw.githubusercontent.com/jbgx014/jbgx014/refs/heads/main/mulher-trabalhandoo.gif"
+     alt="Gif Mulher trabalhando" />
 
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 📊 Estatísticas
 
