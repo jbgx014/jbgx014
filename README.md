@@ -1,5 +1,8 @@
-# 👩🏻‍💻 Juliana Borges
-**`Desenvolvedora de Software`**
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1097d5&center=false&vCenter=true&width=600&lines=Juliana+Borges" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0c709e&center=false&vCenter=true&width=600&lines=Desenvolvedora+de+Software" alt="Typing SVG" />
+</div>
 
 Me chamo Juliana Borges, moro em São Paulo e estudo Ciência da Computação (7º semestre) e de Sistemas para Internet (1º semestre). Sou formada em Análise e Desenvolvimento de Sistemas e em Comunicação Social – Jornalismo. Possuo mais de 9 anos de experiência profissional nas áreas de Marketing, Comunicação e Atendimento bilíngue (inglês/português). Atualmente estou em transição de carreira para a área de tecnologia, dedicando-me integralmente aos estudos e desenvolvimento de projetos práticos. Busco minha primeira oportunidade no setor para aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
