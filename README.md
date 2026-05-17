@@ -115,3 +115,10 @@ Me chamo Juliana Borges, moro em São Paulo e estudo Ciência da Computação (7
     </td>
   </tr>
 </table>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbgx014/jbgx014/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbgx014/jbgx014/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jbgx014/jbgx014/output/github-contribution-grid-snake.svg">
+</picture>
